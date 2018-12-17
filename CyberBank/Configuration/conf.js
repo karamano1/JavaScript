@@ -13,7 +13,7 @@ exports.config = {
   specs: ['../Tests/dataProvider.spec.js'], 
 
    suites:{
-   smoke: ["../Tests/BankManagerSimple.spec.js", "../Tests/alerts.spec.js"],
+   smoke: ["../Tests/CorporateFlyTap.spec.js", "../Tests/alerts.spec.js"],
    regression: ["../Tests/*.spec.js"]
    },
 
