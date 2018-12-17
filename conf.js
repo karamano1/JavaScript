@@ -3,13 +3,14 @@ var HtmlReporter = require('protractor-beautiful-reporter');
 
 exports.config = {
    
-    directConnect : true,
+//    directConnect : true,
+    seleniumAddress: 'http://localhost:4723/wd/hub',
   
    capabilities: {
     browserName: 'chrome'
   },
   
-  specs: ['../Tests/dataProvider.spec.js'], 
+  specs: ['.CyberBank/Tests/dataProvider.spec.js'], 
 
 //   suites:{
 //   smoke: ["../Tests/BankManagerSimple.spec.js", "../Tests/alerts.spec.js"],
