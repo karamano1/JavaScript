@@ -4,7 +4,7 @@ var HtmlReporter = require('protractor-beautiful-reporter');
 exports.config = {
    
 //    directConnect : true,
-    seleniumAddress: 'http://localhost:4723/wd/hub',
+    seleniumAddress: 'http://localhost:4444/wd/hub',
   
    capabilities: {
     browserName: 'chrome'
