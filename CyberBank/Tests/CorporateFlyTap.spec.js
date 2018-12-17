@@ -36,7 +36,7 @@ describe('Verify the Corporate page on the FlyTap application', () => {
       expect(CorporateFlyTapPage.TapCorporateLogo.isDisplayed()).toBe(true);
              
     });
-
+    
     it('should navigate to the Home Corporate Page when clicked on "Tap | Corporate" link', ()=>{
         browser.executeScript("arguments[0].click();", CorporateFlyTapPage.TapCorporateLogo);
         expect(CorporateFlyTapPage.Title()).toEqual(AppData.titles.corporateHome);
