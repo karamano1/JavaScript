@@ -4,7 +4,7 @@
   "description": "This is for CyberFramework.",
   "main": "index.js",
   "scripts": {
-    "test": "protractor conf.js"
+    "test": "protractor ./CyberBank/Configuration/conf.js"
   },
   "keywords": [
     "protractor"
