@@ -12,10 +12,10 @@ exports.config = {
   
   specs: ['../Tests/dataProvider.spec.js'], 
 
-//   suites:{
-//   smoke: ["../Tests/BankManagerSimple.spec.js", "../Tests/alerts.spec.js"],
-//   regression: ["../Tests/*.spec.js"]
-//   },
+   suites:{
+   smoke: ["../Tests/BankManagerSimple.spec.js", "../Tests/alerts.spec.js"],
+   regression: ["../Tests/*.spec.js"]
+   },
 
 onPrepare: function () {
     browser.driver.manage().window().maximize();
