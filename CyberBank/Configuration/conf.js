@@ -29,10 +29,10 @@ onPrepare: function () {
       // Add a screenshot reporter and store screenshots to `/tmp/screenshots`:
       jasmine.getEnv().addReporter(new HtmlReporter({
         baseDirectory: '../report/screenshots',
-        preserveDirectory: true,
+        preserveDirectory: false,
         screenshotsSubfolder: 'images',
          jsonsSubfolder: 'jsons',
-         docName: 'CyberBank-Report.html'
+         docName: 'CyberBank-Flytap-Report.html'
      }).getJasmine2Reporter());
   
 },

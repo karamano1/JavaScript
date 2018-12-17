@@ -1,4 +1,4 @@
-require('../Utilities/customLocators2.js');
+require('../Utilities/CustomLocators2.js');
 var Base = require('../Utilities/Base2.js');
 var AppData = require('../TestData/AppData.json');
 var CorporateFlyTapPage = require('../Pages/CorporateFlyTap.page.js');
