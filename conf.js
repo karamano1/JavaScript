@@ -10,7 +10,7 @@ exports.config = {
     browserName: 'chrome'
   },
   
-  specs: ['.CyberBank/Tests/dataProvider.spec.js'], 
+  specs: ['./CyberBank/Tests/dataProvider.spec.js'], 
 
 //   suites:{
 //   smoke: ["../Tests/BankManagerSimple.spec.js", "../Tests/alerts.spec.js"],
