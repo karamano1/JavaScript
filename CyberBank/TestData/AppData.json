@@ -1,0 +1,231 @@
+{
+    "titles": {
+        "corporateHome": "The program for your business – Save money",
+        "institutional": "Institutional",
+        "contacts": "Contacts and support",
+        "howItWorks": "How it works - Join and benefits",
+        "businessTravels": "Business travels - Discover destinations",
+        "signUp": "Join online - Sign up",
+        "login": "Login — Sign in into your account",
+        "searchReservation": "TAP - Search Reservation",
+        "refund": "Reembolsos",
+        "findOutMore": "Program advantages - Exclusive benefits"
+    },
+
+    "linkTextsTrio": [
+        {
+           "link": "FLYTAP"},
+           {
+           "link": "INSTITUTIONAL"},
+           {
+           "link": "CORPORATE"}
+    ],
+    "linkTextContact": {
+           "link": "CONTACTS"
+        },
+
+           "linkTextMyCorpEn":[
+               {
+           "link": "MY CORPORATE"},
+           {
+            "link": "EN"
+           }
+        ],
+
+        "linkTextHIW": {
+           "link": "HOW IT WORKS"
+        },
+
+           "linkTextBusTravel":
+           {
+           "link": "BUSINESS TRAVELS"
+        },
+    
+    "titleAndText": [
+      {
+          "imagesTitle": "COST REDUCTION",
+          "imagesText": "Save with no fuss. Earn money every time you fly"
+        },
+      {
+        "imagesTitle": "PROMOTIONS",
+        "imagesText": "Access promotions that are really useful for your company."
+      },
+      {
+        "imagesTitle": "TAP AIR PORTUGAL EXPERIENCE",
+        "imagesText": "Get the best flight experience."
+      },
+      {
+        "imagesTitle": "EASY MANAGEMENT",
+        "imagesText": "Check all your company data: earned credit, trips"
+      },
+      {
+        "imagesTitle": "ENJOY THE UNIQUE SERVICES",
+        "imagesText": "Use your balance and have access to services "
+      },
+      {
+        "imagesTitle": "Germany / Berlin"
+      },
+      {
+        "imagesTitle": "Italy / Rome"
+      },
+      {
+        "imagesTitle": "France / Paris"
+      }
+    ],
+
+    "headingText": [
+        {
+            "head": "MAKE YOUR BUSINESS FLY"
+        },
+        {
+             "head": "PROGRAM BENEFITS"
+        },
+        {
+            "head": "BUSINESS TRAVEL"
+        },
+        {
+            "head": "DISCOVER A WORLD OF BENEFITS"
+          }
+        ],
+       
+       "headerPicText": [  
+           {
+            "picText": "FLY WITH TAP AIR PORTUGAL\nEnjoy your business trip with tap|corporate."
+           },
+           {
+            "picText": "EARN MONEY WHILE YOU FLY\nEvery time you fly with TAP Air Portugal you are saving money."
+           },
+           {
+            "picText": "START SAVING NOW\nGet discounts on your TAP Air Portugal flights' accumulated balance and convenient services for your company."  
+        }
+    ],
+       
+       "randomTexts": [
+           {
+            "div": "tap|corporate is a program "
+           },
+            {
+                "div": "In a business trip, knowing about the local culture and traditions can determine the success of your business."
+                },
+                {  
+                  "div": "8,000 companies that are already part of the tap|corporate program."
+        }
+    ],
+    "howItWorksList": [
+        {
+            "list": "How to earn balance"
+        },
+        {
+            "list": "How to use your balance"
+        },
+        {
+            "list": "Advantages"
+        },
+        {
+            "list": "Additional services"
+        }
+    ],
+    "signUpLogin": [
+    {
+       "link": "JOIN NOW"
+    },
+    {
+       "link": "LOGIN"
+    }
+],
+"flightLinks": [
+    {
+        "link": "BOOK FLIGHT"
+    },
+    {
+        "link": "CHECK-IN"
+    },
+    {
+        "link": "FLIGHT INFO"
+    },
+    {
+        "link": "MANAGE BOOKING"
+    }
+],
+
+"bookFlightLink": 
+    {
+        "loginLabel": "LOGIN",
+        "usernameLabel": "Username",
+        "password": "Password",
+        "passwordLabel": "Show password",
+        "emptyErrorMessage": "Required field.",
+        "failExamplePass": "Cyber",
+        "passExamplePass": "Cybertek",
+        "passErrorMessage": "Password must have at least 8 characters, one lower case letter, one capital letter and one number.",
+        "loginButton": "LOGIN",
+        "closeLabel": "Close",
+        "recUsername": "Recover username",
+        "recPassword": "Recover password",
+        "corpProgram": "Are you still not a member of the Corporate Program? Join the Program or find out how it works.",
+        "errorTitle": "THE FORM CONTAINS THE FOLLOWING ERRORS:",
+        "correctInputs": "Please correct:",
+        "forgotPass": "Your login data is incorrect. Have you forgotten your password?"
+    
+    },
+
+    "checkInFlight": {
+        "messageToCheckIn": "Make your own check-in and print the boarding pass before you go to the airport.",
+       "checkInLabels": [
+           {
+               "link": "Flight from"
+           },
+           {
+               "link": "Reservation code"
+           },
+           {
+               "link": "TAP Miles&Go Cliente Number (optional)"
+           },
+           {
+               "link": "Flight date"
+           }
+       ],
+        "airportNotFound": "Airport not found.",
+       "emptyErrorMessage": "Required field.",
+        "continueButton": "CONTINUE",
+        "belowLinks": [
+            {"link":"HOTEL"}, {"link":"RENT-A-CAR"}, {"link":"INSURANCE"}, {"link":"CRUISES"}, {"link":"PARKING"}, {"link":"TRANSFERS"}]
+    },
+
+    "flightInfo": {
+        "flightSearch": "Flight search",
+        "radioButtonLabels": [{"link": "By airport"}, {"link": "By origin and destination"}, {"link": "By flight number"}],
+        "fromLabel": "From",
+        "toLabel": "To",
+        "fromExampleInput": "Cybertek",
+        "toExampleInput": "Cyber",
+        "sameInputErrorMessage": "The figures cannot be the same.",
+        "departLabel": "With departure/arrival",
+        "dayLabel": "on the day",
+        "continueButton": "CONTINUE",
+        "emptyErrorMessage": "Required field.",
+        "airportNotFound": "Airport not found.",
+        "departDropdown": [{"link": "Departure date"}, {"link": "Return date"}],
+        "tp": "TP",
+        "tpErrorMessage": "Campo inválido",
+        "belowLinks": [
+            {"link":"HOTEL"}, {"link":"RENT-A-CAR"}, {"link":"INSURANCE"}, {"link":"CRUISES"}, {"link":"PARKING"}, {"link":"TRANSFERS"}]
+        },
+
+        "manageBooking": {
+            "chooseOptionLabel": "Choose an option",
+            "radioButtons": [{"link": "See reservation"}, {"link": "Print receipt"}, {"link": "Ask for / check refund"}],
+            "labelTexts": [{"link": "Booking code"}, {"link": "Last name"}],
+            "continueButton": "CONTINUE",
+            "emptyErrorMessage": "Required field.",
+            "numberError": "Please enter only numbers.",
+            "letterError": "Please enter only letters.",
+            "lessThan10": "Please enter at least 10 characters.",
+            "manageInput": "Cyber",
+            "belowLinks": [
+                {"link":"HOTEL"}, {"link":"RENT-A-CAR"}, {"link":"INSURANCE"}, {"link":"CRUISES"}, {"link":"PARKING"}, {"link":"TRANSFERS"}],
+            "receiptLabel": [{"link": "Last name"}, {"link": "Ticket number"}]
+        }
+    
+
+}
