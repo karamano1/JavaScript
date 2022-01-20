@@ -1,6 +1,6 @@
 function reverseString(str) {
     // Step 1. Use the split() method to return a new array
-    var splitString = str.split(""); // var splitString = "hello".split("");
+    var splitString21212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121 = str.split(""); // var splitString = "hello".split("");
     // ["h", "e", "l", "l", "o"]
  
     // Step 2. Use the reverse() method to reverse the new created array
